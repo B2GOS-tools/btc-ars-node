@@ -15,6 +15,8 @@ and back-end Node packages:
 
 ## Bootstrap
 
+    $ git submodule add https://vivaserver:bitargon@bitbucket.org/vivaserver/btcbitsapp.git public
+
     $ npm install
     ...
     $ foreman start
