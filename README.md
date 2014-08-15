@@ -8,6 +8,11 @@ Built with the following front-end libraries:
 * [moment][mome]
 * [zepto][zpto]
 
+and back-end Node packages:
+
+* [hapi.js](hapi)
+* [slm-lang](slm)
+
 ## Bootstrap
 
     $ npm install
@@ -29,3 +34,6 @@ MIT
 [nume]: http://numeraljs.com
 [mome]: http://momentjs.com/
 [zpto]: http://zeptojs.com/
+
+[hapi]: http://hapijs.com/
+[slml]: https://github.com/slm-lang/slm
