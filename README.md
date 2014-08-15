@@ -23,11 +23,5 @@ MIT
 
 (c)2014 Cristian R. Arroyo
 
-[rtch]: http://goratchet.com
-[fora]: http://mozilla.github.io/localForage/
-[nume]: http://numeraljs.com
-[mome]: http://momentjs.com/
-[zpto]: http://zeptojs.com/
-
 [hapi]: http://hapijs.com/
 [slml]: https://github.com/slm-lang/slm
