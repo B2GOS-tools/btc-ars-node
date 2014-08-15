@@ -1,0 +1,22 @@
+{
+  "name": "digicoins",
+  "version": "0.0.0",
+  "description": "Bitcoin en Argentina",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bitcoin",
+    "argentina"
+  ],
+  "author": "Cristian R. Arroyo",
+  "license": "MIT",
+  "engines": {
+    "node": "0.10.x"
+  },
+  "dependencies": {
+    "hapi": "^6.5.1",
+    "slm": "^0.1.1"
+  }
+}
