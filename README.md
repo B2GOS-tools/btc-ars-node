@@ -10,7 +10,7 @@ Built with the following front-end libraries:
 
 ## Bootstrap
 
-    $ node install
+    $ npm install
     ...
     $ foreman start
 or
