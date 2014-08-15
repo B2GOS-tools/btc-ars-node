@@ -1,17 +1,9 @@
-# Bitcoin en Argentina
+# Bitcoin en Argentina Node.js backend
 
-Built with the following front-end libraries:
+NPM package dependencies:
 
-* [Ratchet][rtch]
-* [localForage][fora]
-* [numeral][nume]
-* [moment][mome]
-* [zepto][zpto]
-
-and back-end Node packages:
-
-* [hapi.js](hapi)
-* [slm-lang](slm)
+* [hapi.js][hapi]
+* [slm-lang][slm]
 
 ## Bootstrap
 
