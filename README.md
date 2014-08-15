@@ -7,7 +7,8 @@ NPM package dependencies:
 
 ## Bootstrap
 
-    $ git submodule add https://vivaserver:bitargon@bitbucket.org/vivaserver/btcbitsapp.git public
+    $ git submodule init
+    $ git submodule update
 
     $ npm install
     ...
