@@ -3,7 +3,7 @@
 NPM package dependencies:
 
 * [hapi.js][hapi]
-* [slm-lang][slm]
+* [slm-lang][slml]
 
 ## Bootstrap
 
