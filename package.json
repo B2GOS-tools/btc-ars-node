@@ -1,6 +1,6 @@
 {
-  "name": "digicoins",
-  "version": "0.0.0",
+  "name": "btcbits",
+  "version": "0.1.0",
   "description": "Bitcoin en Argentina",
   "main": "server.js",
   "scripts": {
