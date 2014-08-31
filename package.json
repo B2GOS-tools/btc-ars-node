@@ -1,6 +1,10 @@
 {
-  "name": "btcbits",
+  "name": "btc-ars",
   "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git@heroku.com:btc-ars.git"
+  },
   "description": "Bitcoin en Argentina",
   "main": "server.js",
   "scripts": {
