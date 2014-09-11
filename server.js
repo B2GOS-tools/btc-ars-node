@@ -39,9 +39,11 @@ server.route({
   path: "/get/{uri*}",  // ref. http://hapijs.com/api#path-parameters
   method: "GET",
   handler: function(req, res) {
-    rest.get(req.params.uri).on("complete",function(data) {
-      res(data);
-    });
+    if (req.params.uri) {
+      rest.get(req.params.uri).on("complete",function(data) {
+        res(data);
+      });
+    }
   }
 });
 
