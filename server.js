@@ -10,7 +10,9 @@ var opts = {
     }
   }
 };
-var server = new Hapi.Server(5000,opts);
+// heroku dynamically assigns your app a port, so you can't set the port to a fixed number
+// ref. https://devcenter.heroku.com/articles/getting-started-with-nodejs-o#write-your-app
+var server = new Hapi.Server(process.env.PORT || 5000, opts);
 
 server.route({
   path: "/",
