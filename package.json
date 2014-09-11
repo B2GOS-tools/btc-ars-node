@@ -21,6 +21,7 @@
   },
   "dependencies": {
     "hapi": "^6.5.1",
+    "restler": "^3.2.2",
     "slm": "^0.1.1"
   }
 }

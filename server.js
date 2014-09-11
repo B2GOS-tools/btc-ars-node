@@ -33,6 +33,18 @@ server.route({
   }
 });
 
+var rest = require("restler");
+
+server.route({
+  path: "/get/{uri*}",  // ref. http://hapijs.com/api#path-parameters
+  method: "GET",
+  handler: function(req, res) {
+    rest.get(req.params.uri).on("complete",function(data) {
+      res(data);
+    });
+  }
+});
+
 server.start(function() {
   console.log("Server running at:",server.info.uri);
 });
