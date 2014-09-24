@@ -36,7 +36,7 @@ server.route({
 var rest = require("restler");
 
 server.route({
-  path: "/get/{uri*}",  // ref. http://hapijs.com/api#path-parameters
+  path: "/qoute/{uri*}",  // ref. http://hapijs.com/api#path-parameters
   method: "GET",
   handler: function(req, res) {
     if (req.params.uri) {
