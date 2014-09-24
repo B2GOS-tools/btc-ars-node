@@ -3,6 +3,7 @@
 NPM package dependencies:
 
 * [hapi.js][hapi]
+* [restler][rest]
 * [slm-lang][slml]
 
 ## Bootstrap
@@ -25,4 +26,5 @@ MIT
 (c)2014 Cristian R. Arroyo
 
 [hapi]: http://hapijs.com/
+[rest]: https://github.com/danwrong/restler
 [slml]: https://github.com/slm-lang/slm
