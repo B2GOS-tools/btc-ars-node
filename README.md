@@ -17,6 +17,13 @@ NPM package dependencies:
 or
     $ node .
 
+## Supported BTC-ARS exchangers
+
+* https://conectabitcoin.com
+* https://digicoins.tk
+* https://www.casadecambiobtc.com
+* https://www.ripio.com
+
 ## License
 
 MIT
