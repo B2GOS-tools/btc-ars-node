@@ -21,7 +21,6 @@ or
 
 * https://conectabitcoin.com
 * https://digicoins.tk
-* https://www.casadecambiobtc.com
 * https://www.ripio.com
 
 ## License
