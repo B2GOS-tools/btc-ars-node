@@ -1,4 +1,4 @@
-# Bitcoin en Argentina Node.js backend
+# Bitcoin en Argentina FirefoxOS app. Node.js backend
 
 NPM package dependencies:
 
